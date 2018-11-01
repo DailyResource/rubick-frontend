@@ -1,1 +1,1 @@
-# rubick-frontend-
+# rubick-frontend
